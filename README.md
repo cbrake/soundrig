@@ -1,5 +1,8 @@
 # soundrig
 
+> **This project has moved to [sndtool](https://github.com/sndtool/sndtool).**
+> Development continues there. This repository is no longer maintained.
+
 A terminal-based audio swiss army knife — browse, tag, merge, and manipulate audio files from the comfort of your terminal.
 
 ## Vision
